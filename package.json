@@ -27,7 +27,7 @@
     "remark": "^10.0.1"
   },
   "dependencies": {
-    "@babel/runtime": "^7.2.0"
+    "@babel/runtime": "^7.26.10"
   },
   "peerDependencies": {
     "gatsby": ">2.0.0-alpha"
